@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    align-items: center;
+    color: rgb(39, 26, 9);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    height: 100vh;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://images4.alphacoders.com/601/601832.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+input{margin: 2px;
+background-color: rgba(255, 217, 0, 0.26);
+color: black;
+}   
+div{
+    border:solid;
+    width: 290px;
+    height: min-content;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgba(245, 245, 220, 0.459);
+
+}
+.banana{
+    display: block;
+    scale: 0.8;
+    padding: 0;
+}
